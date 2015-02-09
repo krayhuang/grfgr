@@ -1,0 +1,10 @@
+{
+    "name": "grfgr",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "grfgr.script",
+    "author": "krayhuang",
+    "minimum_firmware_version": 42
+}
